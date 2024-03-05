@@ -7,7 +7,7 @@ Taking you from the very basics of Git, version control, and Github to the commo
 - [What is Git](#what-is-git)
 - [What does Git do](#what-does-git-do)
 - [Getting Started with Git](#getting-started)
-
+- [Working with Github](#working-with-github)
 
 ### What is Git?
 - Git is a free and open source version control system
@@ -136,4 +136,8 @@ git add --all
 
  #allows us to see all the possible git commands
  ```
- 
+#### Working with Github
+1. Create | Log into Github
+2. Create and empty repo on Github
+#. Push our local repo to github
+
